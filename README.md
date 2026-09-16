@@ -1,5 +1,6 @@
 # Nicotine — Important Information
-<img url="asset/nicotine_banner.png"></img>
+![banner](asset/nicotine_banner.png)
+
 ## 1. What is Nicotine?
 
 - Nicotine is a **stimulant** (a substance that increases activity in the brain and body).
