@@ -1,7 +1,5 @@
 # Nicotine — Important Information
-
-Simple topic-by-topic notes written for easy understanding by a 10th-standard student.
-
+<img url=""></img>
 ## 1. What is Nicotine?
 
 - Nicotine is a **stimulant** (a substance that increases activity in the brain and body).
