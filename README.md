@@ -490,7 +490,23 @@ These compounds come from different biological sources and can have different ef
 - It has been used in some e-cigarettes and oral nicotine products.
 - Synthetic nicotine can contain different proportions of its R and S forms depending on how it is produced.
 
-## 52. Important Chemical Vocabulary
+## Nicotine — Chemical Structure
+
+- **Chemical formula:** C₁₀H₁₄N₂
+- **Molar mass:** 162.23 g/mol
+- **IUPAC name:** 3-[(2S)-1-methylpyrrolidin-2-yl]pyridine
+- **Molecular type:** Alkaloid
+
+### Nitrogen-containing rings
+
+- ![chemical Structure](asset/Nicotine.png)
+
+Nicotine contains two nitrogen-containing rings:
+
+1. **Pyridine ring** — aromatic six-membered ring containing one nitrogen.
+2. **Pyrrolidine ring** — five-membered saturated ring containing one nitrogen.
+
+## 53. Important Chemical Vocabulary
 
 - **Alkaloid** — naturally occurring nitrogen-containing chemical.
 - **Agonist** — substance that activates a receptor.
@@ -511,7 +527,7 @@ These compounds come from different biological sources and can have different ef
 - **Therapeutic** — related to treatment of a disease or condition.
 - **Adverse effect** — unwanted or harmful effect.
 
-## 53. Quick Facts
+## 54. Quick Facts
 
 | Topic | Important fact |
 |---|---|
@@ -529,7 +545,7 @@ These compounds come from different biological sources and can have different ef
 | Poisoning | Can affect the nervous, digestive and cardiovascular systems |
 | Severe poisoning | Can cause seizures, coma and respiratory paralysis |
 
-## 54. Most Important Things to Remember
+## 55. Most Important Things to Remember
 
 1. Nicotine is a stimulant and alkaloid.
 2. It mainly acts on nicotinic acetylcholine receptors.
