@@ -499,7 +499,7 @@ These compounds come from different biological sources and can have different ef
 
 ### Nitrogen-containing rings
 
-- ![chemical Structure](asset/structure.png)
+![chemical Structure](asset/structure.png)
 
 Nicotine contains two nitrogen-containing rings:
 
