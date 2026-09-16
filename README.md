@@ -22,6 +22,8 @@
   - **Norepinephrine** — involved in alertness and the stress response.
 - These effects can produce increased alertness and sometimes mild **euphoria** (a feeling of pleasure or excitement).
 
+![banner](asset/topic-02.png)
+
 ## 3. Main Ways Nicotine Is Used
 
 Nicotine can be delivered through:
