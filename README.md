@@ -11,6 +11,8 @@
 - In insects, nicotine acts as a **neurotoxin** (poison that affects the nervous system).
 - Nicotine is highly addictive.
 
+- ![banner](topic-01)
+
 ## 2. How Does Nicotine Work?
 
 - Nicotine attaches to **nicotinic acetylcholine receptors (nAChRs)**.
@@ -42,6 +44,8 @@ Nicotine can be delivered through:
 - Nasal sprays
 
 The method of delivery affects how quickly nicotine reaches the brain and can affect its addictive potential.
+
+![banner](asset/nicotine_banner.png)
 
 ## 4. Nicotine and Cigarettes
 
